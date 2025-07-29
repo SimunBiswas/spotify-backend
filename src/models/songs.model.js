@@ -1,4 +1,3 @@
-import { image } from "framer-motion/client";
 import mongoose from "mongoose";
 
 const songsSchema = new mongoose.Schema({
